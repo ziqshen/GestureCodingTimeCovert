@@ -1,4 +1,4 @@
-This is an example that matches the txt file and the csv file for the gesture time.
+### This is an example that matches the txt file and the csv file for the gesture time.
 
 In order to do the matching, you have to 
 1. convert the word doc into a txt file
