@@ -4,3 +4,5 @@ In order to do the matching, you have to
 1. convert the word doc into a txt file
 2. convert the xlsx into a csv file keeping the first sheet only (the gesture timing one)
 3. Then run the python notebook with a python evironment with pandas package installed
+
+I have included an example here for the boat story.
